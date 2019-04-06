@@ -1,0 +1,29 @@
+nom;prenom;ID;programme;age;sexe;faune/flore;region_naissance;diète;pays_origine
+aparicio velasco;maria elisa;1;Vrai;NA;F;Vrai;NA;OM;NA
+banville;isabelle;2;Vrai;NA;F;NA;NA;OM;NA
+barro;hadjara madoccoura no;3;Vrai;NA;F;NA;NA;ND;NA
+boilard;gabriel;4;Vrai;29;M;Faux;NA;OM;NA
+boucher;vincent;5;Vrai;NA;M;NA;NA;OM;NA
+carbonneau;alexandre;6;Vrai;NA;M;NA;NA;ND;NA
+chouinard;émile;7;Vrai;NA;M;NA;NA;OM;NA
+côté audet;josiane;8;Vrai;22;F;Vrai;NA;VG;NA
+coutu;alexandra;9;Vrai;NA;F;NA;NA;OM;NA
+desjardins;émilie;10;Vrai;21;F;NA;NA;VG;NA
+dufour;daphné;11;Faux;NA;F;NA;NA;OM;NA
+dumaine;carole-anne;12;Faux;NA;F;NA;NA;ND;NA
+glaus;valentine;13;Vrai;NA;F;NA;NA;OM;NA
+hinse;pier-andré;14;Vrai;NA;M;NA;NA;ND;NA
+légo;éliane;15;Faux;NA;F;NA;NA;ND;NA
+lorrain;jonathan;16;Vrai;NA;M;NA;NA;OM;NA
+mercier;benjamin;17;Vrai;NA;M;NA;NA;OM;NA
+moreau;kathryne;18;Vrai;21;F;Vrai;NA;VG;NA
+néron;anne-sophie;19;Vrai;NA;F;NA;NA;OM;NA
+paquette;élyse;20;Vrai;22;F;Faux;NA;OM;NA
+préfontaine;stéphanie;21;Faux;NA;F;NA;NA;ND;NA
+racine;alexandre;22;Vrai;NA;M;NA;NA;OM;NA
+rioux;jenny-ann;23;Vrai;NA;F;NA;NA;OM;NA
+roy;éloise;24;Vrai;NA;F;NA;NA;VG;NA
+tremblay;françois;25;Vrai;NA;M;NA;NA;OM;NA
+turgeon;gabriel;26;Vrai;NA;M;NA;NA;OM;NA
+vallée;audrey;27;Vrai;NA;F;NA;NA;OM;NA
+viens;cyrille;28;Vrai;NA;A;NA;NA;VG;NA
